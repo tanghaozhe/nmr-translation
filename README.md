@@ -1,6 +1,7 @@
 
 ## NMR spectrum translation
-Translate NMR spectrum images to SMILES.
+This is an implementation for translating NMR spectrum images to SMILES.
+
 This code is for reference only as the dataset is currently not publicly available.
 
 # Dataset:
